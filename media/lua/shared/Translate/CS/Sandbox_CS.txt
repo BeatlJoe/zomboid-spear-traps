@@ -1,4 +1,4 @@
 Sandbox_CS = {
-	Sandbox_SpearTraps_SpearTrapsKillPlayer = "Pasti na kopí zabíjejí hráèe"
-	Sandbox_SpearTraps_SpearTrapsKillPlayer_tooltip = "Zabijte hráèe pøi chùzi pøes past na kopí"
+	Sandbox_SpearTraps_SpearTrapsKillPlayer = "SmrtÃ­cÃ­ past"
+	Sandbox_SpearTraps_SpearTrapsKillPlayer_tooltip = "ChÅ¯ze pÅ™es past usmrtÃ­ hrÃ¡Äe."
 }
