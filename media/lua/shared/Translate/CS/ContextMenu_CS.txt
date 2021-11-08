@@ -1,4 +1,4 @@
 ContextMenu_CS = {
-	ContextMenu_AddSpearToGrave = "Pøidejte kopí do hrobu"
-	ContextMenu_RemoveSpearFromGrave = "Odstraò kopí z hrobu"
+	ContextMenu_AddSpearToGrave = "PÅ™idejte kopÃ­ do pasti"
+	ContextMenu_RemoveSpearFromGrave = "Odeberte kopÃ­ z pasti"
 }
