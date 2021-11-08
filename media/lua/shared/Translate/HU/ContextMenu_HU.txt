@@ -1,4 +1,4 @@
 ContextMenu_HU = {
-	ContextMenu_AddSpearToGrave = "Add Spear to Grave"
-	ContextMenu_RemoveSpearFromGrave = "Remove Spear from Grave"
+	ContextMenu_AddSpearToGrave = "Add lándzsát a sírhoz"
+	ContextMenu_RemoveSpearFromGrave = "Vegye ki a tartalékot a sírból"
 }
